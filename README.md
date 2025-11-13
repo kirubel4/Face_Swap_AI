@@ -32,5 +32,5 @@ This technique can be used for:
 - **PIL (Pillow)** — for image loading and conversions  
 - **Requests** — for downloading remote images  
 
----
+
 
